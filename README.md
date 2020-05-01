@@ -4,6 +4,9 @@ This is a template for an example repository.
 
 You can create a new example by simply clicking on "Use this template".
 
+The included example is showing the generation of a conditioned random field ensemble
+in 1D taken from [GSTools](https://geostat-framework.readthedocs.io/projects/gstools/en/stable/examples/06_conditioned_fields/00_condition_ensemble.html#sphx-glr-examples-06-conditioned-fields-00-condition-ensemble-py).
+
 
 ## Structure
 
