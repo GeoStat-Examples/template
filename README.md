@@ -11,18 +11,18 @@ in 1D taken from [GSTools](https://geostat-framework.readthedocs.io/projects/gst
 ## Structure
 
 Please organize your example in the given Structure
-- `data/`: here you should place your input data
-- `src/`: here you should place your python scripts
-- `results/`: here your computed results and plots should be stored
-- `README.md`: please describe your example in the readme, potentially showing results
+- `data/` - here you should place your input data
+- `src/` - here you should place your python scripts
+- `results/` - here your computed results and plots should be stored
+- `README.md` - please describe your example in the readme, potentially showing results
 
 
 ## Python environment
 
 To make the example reproducible, it would be a good practice to provide one of
 the following files:
-- `requirements.txt` requirements for [pip](https://pip.pypa.io/en/stable/user_guide/#requirements-files) to install all needed packages
-- `spec-file.txt` specification file to create the original [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#building-identical-conda-environments)
+- `requirements.txt` - requirements for [pip](https://pip.pypa.io/en/stable/user_guide/#requirements-files) to install all needed packages
+- `spec-file.txt` - specification file to create the original [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#building-identical-conda-environments)
 
 
 ## Workflow
