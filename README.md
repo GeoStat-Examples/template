@@ -17,6 +17,14 @@ Please organize your example in the given Structure
 - `README.md`: please describe your example in the readme, potentially showing results
 
 
+## Python environment
+
+To make the example reproducible, it would be a good practice to provide one of
+the following files:
+- `requirements.txt` requirements for pip to install all needed packages
+- `spec-file.txt` specification file to create the original [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#building-identical-conda-environments)
+
+
 ## Workflow
 
 After finalizing your work, you should tag the repository with a version like `v1.0`.
