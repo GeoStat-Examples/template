@@ -21,7 +21,7 @@ Please organize your example in the given Structure
 
 To make the example reproducible, it would be a good practice to provide one of
 the following files:
-- `requirements.txt` requirements for pip to install all needed packages
+- `requirements.txt` requirements for [pip](https://pip.pypa.io/en/stable/user_guide/#requirements-files) to install all needed packages
 - `spec-file.txt` specification file to create the original [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#building-identical-conda-environments)
 
 
