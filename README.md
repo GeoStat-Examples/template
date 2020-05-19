@@ -13,11 +13,12 @@ in 1D taken from [GSTools](https://geostat-framework.readthedocs.io/projects/gst
 
 ## Structure
 
-Please organize your example in the given Structure
+Please try to organize your example in the given Structure
 - `data/` - here you should place your input data
 - `src/` - here you should place your python scripts
 - `results/` - here your computed results and plots should be stored
 - `README.md` - please describe your example in the readme, potentially showing results
+- `LICENSE` - the default license is MIT, you can use another one if wanted
 
 
 ## Python environment
@@ -33,6 +34,9 @@ the following files:
 After finalizing your work, you should tag the repository with a version like `v1.0`.
 
 Then, a [Zenodo](https://zenodo.org/) release will be created, so you can cite the repository in you publication.
+
+Please keep your `master` branch in line with the latest release.
+For further development use the `develop` branch and update `master` with pull-requests.
 
 
 ## Contact
